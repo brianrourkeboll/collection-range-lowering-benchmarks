@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <DotnetFscCompilerPath>D:\src\fsharp\artifacts\bin\fsc\Release\net8.0\fsc.dll</DotnetFscCompilerPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="New.fs" />
+  </ItemGroup>
+
+</Project>
