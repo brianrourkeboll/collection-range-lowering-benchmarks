@@ -1,4 +1,4 @@
-﻿module CollectionRangeLowering.Benchmarks
+module CollectionRangeLowering.Benchmarks
 
 open BenchmarkDotNet.Attributes
 open BenchmarkDotNet.Configs
